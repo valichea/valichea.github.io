@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://valichea.github.io/sitemap.html.gz
+Sitemap: https://valichea.github.io/app/sitemap.html.gz
+Sitemap: https://valichea.github.io/assets/sitemap.html.gz
+Sitemap: https://valichea.github.io/css/sitemap.html.gz
+Sitemap: https://valichea.github.io/includes/sitemap.html.gz
+Sitemap: https://valichea.github.io/item/sitemap.html.gz
+Sitemap: https://valichea.github.io/src/sitemap.html.gz
